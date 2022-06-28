@@ -7,7 +7,7 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 
 const App = () => {
   return (
-    <div className="container mt-3">
+    <div className="container">
       <div className="row">
         <div className="col-md-3"></div>
         <div className="col-md-6 align-items-center">
